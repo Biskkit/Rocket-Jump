@@ -1,6 +1,6 @@
 # Flappy-Bird
 
-Little Flappy Bird game I made to familiarize myself with unity
+Little Flappy Bird game I made to familiarize myself with Unity
 
 ### Screenshots of Gameplay:
 
