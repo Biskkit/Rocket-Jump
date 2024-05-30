@@ -143,14 +143,14 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 4}
   - name: Rocket_Frame_2
     originalName: 
-    pivot: {x: 0.40000004, y: -0.27272728}
+    pivot: {x: 0.4375, y: -0.27272728}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 80
-      width: 15
+      width: 16
       height: 11
     spriteID: 740b4005eed0eed4da4e18e549a53a83
     spriteBone: []
@@ -163,14 +163,14 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 80}
   - name: Rocket_Frame_3
     originalName: 
-    pivot: {x: 0.4375, y: -0.27272728}
+    pivot: {x: 0.47058827, y: -0.27272728}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
-      y: 42
-      width: 16
+      y: 23
+      width: 17
       height: 11
     spriteID: 2c6686d9d14a043409eac7a93349d3e0
     spriteBone: []
@@ -180,17 +180,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 42}
+    uvTransform: {x: 4, y: 23}
   - name: Rocket_Frame_4
     originalName: 
-    pivot: {x: 0.4375, y: -0.27272728}
+    pivot: {x: 0.47058827, y: -0.27272728}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
-      y: 61
-      width: 16
+      y: 42
+      width: 17
       height: 11
     spriteID: 06e667e5c5a951c4dbdbdb8dd53ef062
     spriteBone: []
@@ -200,17 +200,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 61}
+    uvTransform: {x: 4, y: 42}
   - name: Rocket_Frame_5
     originalName: 
-    pivot: {x: 0.40000004, y: -0.27272728}
+    pivot: {x: 0.4375, y: -0.27272728}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 99
-      width: 15
+      width: 16
       height: 11
     spriteID: 9b4b0809707fe6347ba2f67afbca6d73
     spriteBone: []
@@ -229,7 +229,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 4
-      y: 23
+      y: 61
       width: 17
       height: 11
     spriteID: e5235a261683d7849ad43c419ab9ca0d
@@ -240,7 +240,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 23}
+    uvTransform: {x: 4, y: 61}
   - name: Rocket_Frame_0
     originalName: 
     pivot: {x: 0.35714287, y: -0.27272728}
@@ -283,36 +283,36 @@ ScriptedImporter:
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
-        x: 4
+        x: 3
         y: 3
-        width: 15
+        width: 16
         height: 11
       spriteId: 740b4005eed0eed4da4e18e549a53a83
     - name: Rocket_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
-        x: 3
+        x: 2
         y: 3
-        width: 16
+        width: 17
         height: 11
       spriteId: 2c6686d9d14a043409eac7a93349d3e0
     - name: Rocket_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
-        x: 3
+        x: 2
         y: 3
-        width: 16
+        width: 17
         height: 11
       spriteId: 06e667e5c5a951c4dbdbdb8dd53ef062
     - name: Rocket_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
-        x: 4
+        x: 3
         y: 3
-        width: 15
+        width: 16
         height: 11
       spriteId: 9b4b0809707fe6347ba2f67afbca6d73
     - name: Rocket_Frame_6
