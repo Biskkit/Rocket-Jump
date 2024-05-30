@@ -1,6 +1,6 @@
-# Flappy-Bird
+# Rocket Jump
 
-Little Flappy Bird game I made to familiarize myself with Unity
+Little Flappy Bird-like game I made to familiarize myself with Unity
 
 ### Screenshots of Gameplay:
 
