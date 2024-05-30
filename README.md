@@ -1,9 +1,9 @@
-# Flappy-Bird
+# Rocket Jump
 
-Little Flappy Bird game I made to familiarize myself with Unity
+Little Flappy Bird-like game I made to familiarize myself with Unity
 
 ### Screenshots of Gameplay:
 
-![Screenshot 2024-05-28 182656](https://github.com/Biskkit/Flappy-Bird/assets/78767884/2da69e4a-e953-47e3-aa70-b0f26d832dde)
+![vlcsnap-2024-05-29-22h38m56s276](https://github.com/Biskkit/Flappy-Bird/assets/78767884/6a58aca1-1741-4d01-9301-a484a3d148fb)
 
-![vlcsnap-2024-05-28-18h31m25s137](https://github.com/Biskkit/Flappy-Bird/assets/78767884/4fa5d670-a3bf-49da-b912-009397e9c9c1)
+![vlcsnap-2024-05-29-22h40m21s553](https://github.com/Biskkit/Flappy-Bird/assets/78767884/659afcc3-87a5-4549-bdd1-fd526ca2dd8f)
