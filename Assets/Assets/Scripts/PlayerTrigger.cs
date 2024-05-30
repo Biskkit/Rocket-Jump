@@ -7,7 +7,7 @@ public class PlayerTrigger : MonoBehaviour
     [SerializeField] AudioClip scoreSound;
     AudioSource scoreSource;
     PlayerMovement playerMovement;
-    static int score = 0;
+    int score = 0;
     private void Start()
     {
         scoreSource = gameObject.AddComponent<AudioSource>();
@@ -27,5 +27,9 @@ public class PlayerTrigger : MonoBehaviour
     public void resetScore()
     {
         score = 0;
+    }
+    public int getScore()
+    {
+        return score;
     }
 }
