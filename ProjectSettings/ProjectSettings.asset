@@ -14,8 +14,8 @@ PlayerSettings:
   accelerometerFrequency: 60
   companyName: Biskkit
   productName: Rocket Jump
-  defaultCursor: {fileID: 2800000, guid: 39673c3868278dc4dbceab43f32863c5, type: 3}
-  cursorHotspot: {x: 60, y: 10}
+  defaultCursor: {fileID: 0}
+  cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.120861515, g: 0.11120505, b: 0.1981132, a: 1}
   m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
