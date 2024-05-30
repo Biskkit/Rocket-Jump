@@ -8,6 +8,7 @@ public class PlayerCollision : MonoBehaviour
     PlayerMovement movement;
     [SerializeField] GameObject gameOverScreen;
     PlayerTrigger trigger;
+    Animator animator;
     int x = 0;
     // Start is called before the first frame update
     private void Start()
@@ -16,6 +17,7 @@ public class PlayerCollision : MonoBehaviour
         deathSource.clip = deathSound;
         movement = GetComponent<PlayerMovement>();
         trigger = GetComponent<PlayerTrigger>();
+        animator = GetComponent<Animator>();
     }
     private void OnCollisionEnter2D(Collision2D other)
     {
@@ -26,6 +28,7 @@ public class PlayerCollision : MonoBehaviour
             x++;
             gameOverScreen.SetActive(true);
             trigger.resetScore();
+            animator.SetBool("Dead", true);
         }
     }
 }
