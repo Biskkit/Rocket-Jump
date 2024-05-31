@@ -167,11 +167,11 @@ GameObject:
   - component: {fileID: 316558364}
   - component: {fileID: 316558363}
   - component: {fileID: 316558361}
+  - component: {fileID: 316558365}
+  - component: {fileID: 316558366}
   - component: {fileID: 316558360}
   - component: {fileID: 316558359}
   - component: {fileID: 316558358}
-  - component: {fileID: 316558365}
-  - component: {fileID: 316558366}
   m_Layer: 3
   m_Name: Rocket
   m_TagString: Player
@@ -400,7 +400,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.56, y: 0.44}
+  m_Size: {x: 0.48, y: 0.21}
   m_EdgeRadius: 0
 --- !u!95 &316558366
 Animator:
