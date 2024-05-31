@@ -48,7 +48,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1.5
-  xDestroyPosition: -3
+  xDestroyPosition: -5
 --- !u!61 &5060340861769803961
 BoxCollider2D:
   m_ObjectHideFlags: 0
