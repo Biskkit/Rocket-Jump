@@ -12,7 +12,6 @@ public class PipeSpawner : MonoBehaviour
     {
         player = GameObject.FindGameObjectWithTag("Player");
         movement = player.GetComponent<PlayerMovement>();
-        spawnPipe();
     }
     // Update is called once per frame
     void Update()
@@ -26,7 +25,7 @@ public class PipeSpawner : MonoBehaviour
     }
     void spawnPipe()
     {
-        Vector2 pos = new Vector2(transform.position.x, Random.Range(-.5f, .5f));
+        Vector2 pos = new Vector2(transform.position.x, Random.Range(-1f, 1f));
         if(!movement.dead)
         {
             Instantiate(pipe, pos, transform.rotation);
